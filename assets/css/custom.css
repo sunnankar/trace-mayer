@@ -1,7 +1,7 @@
 /*
- * Proof of Keys
- * Code Copyright Simon Nash / Other Alias Ltd
- * https://www.otheralias.com
+ * Trace Mayer
+ * Code Copyright Trace Mayer
+ * https://www.trace-mayer.com
 */
 
 /* ---------------------------------------------- */
@@ -78,7 +78,7 @@ a:hover {
 /* ---------------------------------------------- */
 
 h1, h2, h3, h4, h5 {
-    color: #F5A12C;
+    color: #8804E4;
 }
 
 h1, h2, h3, h4, h5, strong, b {
@@ -116,6 +116,11 @@ p, li {
     color: #F5A12C;
 }
 
+.text-purple
+{
+    color: #8804E4;
+}
+
 .text-light-grey
 {
     color: #f5f5f5;
@@ -151,6 +156,10 @@ p, li {
     background: #F5A12C;
 }
 
+.bg-purple
+{
+    background: #8804E4;
+}
 
 .bg-light-grey
 {
@@ -187,8 +196,8 @@ p, li {
 
 .btn-primary {
     color: #000000;
-    background-color: #F5A12C;
-    border-color: #F5A12C;
+    background-color: #8804E4;
+    border-color: #8804E4;
     letter-spacing: 0px;
     font-size: 16px;
     font-family: 'Circular Std Bold', Helvetica, Arial, sans-serif;   
