@@ -98,7 +98,10 @@ description: "Due to being busy with other pursuits Trace Mayer is no longer tak
                     
                     <h3 class="pb-2 pt-4 ps-2">2013 Bitcoin Conference - San Jose May 2013</h3>
                     <p class="ps-2">The first Bitcoin conference. Trace helped organize it.</p>
+
                     <iframe class="yt-vid" src="https://www.youtube.com/embed/bW6hxEuoHAI?si=VLfDowEYDvvsYNp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
                     <h3 class="pb-2 pt-4 ps-2">Financial Survival Network - July 2012</h3>
                     <iframe class="yt-vid" src="https://www.youtube.com/embed/yB30alf2smw?si=gN8D456-89JtU0Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
