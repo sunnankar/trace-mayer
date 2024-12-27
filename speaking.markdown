@@ -48,7 +48,7 @@ description: "Due to being busy with other pursuits Trace Mayer is no longer tak
     <div class="container">
        
         <div class="row g-4">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div class="row ps-md-5 ps-2">
                     <h2 class="resources-title text-start">Resources</h2>
                     <div class="col-md-3 col-8 resource-item">
@@ -77,7 +77,7 @@ description: "Due to being busy with other pursuits Trace Mayer is no longer tak
     <div class="black-section py-5">
         <div class="container ps-md-3 py-3">
            <div class="row">
-            <div class="col-md-8 ps-md-5">
+            <div class="col-md-12 ps-md-5">
                 <h3 class="pb-2 ps-2">Speaker Intro Video</h3>
                     <iframe class="yt-vid" src="https://www.youtube.com/embed/mgpDuH17T0Y?si=L1sGJ4_5nEm9lkvW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     
