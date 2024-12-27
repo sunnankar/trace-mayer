@@ -44,9 +44,7 @@ description: "Due to being busy with other pursuits Trace Mayer is no longer tak
 
             
         </div>
-    </div>
-
-
+  
     <div class="container">
        
         <div class="row g-4">
