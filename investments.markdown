@@ -10,7 +10,7 @@ description: "There have been several blockchain related investments made. The g
   <!-- Main Section -->
     <div class="container">
         <div class="row w-100">
-            <div class="col-md-8 text-start pb-md-5 px-md-5">
+            <div class="col-md-12 text-start pb-md-5 px-md-5">
                 <p class="main-p1 ps-3">October 27, 2015</p>
                 <h1 class="fw-bold display-4 main-h1 pb-3 pb-md-4 px-2">Investments</h1>
                <p class="px-2">There have been several blockchain related investments made. The general thesis is that there are seven network effects taking place with Bitcoin: (1) Speculation, (2) Merchants, (3) Consumers, (4) Security/Miners, (5) Developers, (6) Financailization and (7) Settlement Currency.</p>
@@ -40,7 +40,7 @@ description: "There have been several blockchain related investments made. The g
     <div class="black-section ">
         <div class="container ps-md-3">
            <div class="row">
-            <div class="col-md-8 ps-md-5">
+            <div class="col-md-12 ps-md-5">
              
                     <iframe class="yt-vid" src="https://www.youtube.com/embed/mgpDuH17T0Y?si=nKR_iYHgnAZxD255" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     
