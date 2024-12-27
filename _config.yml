@@ -1,4 +1,4 @@
 title: Trace Mayer
 description: A core purpose of Trace Mayer is to be a champion of monetary sovereignty.
-baseurl: "/trace-mayer-jekyll" # Use the repository name
-url: "https://username.github.io/trace-mayer-jekyll" # Full URL to your project site
+baseurl: "" # Leave this empty for the root domain
+url: "https://www.trace-mayer.com" # Your custom domain
