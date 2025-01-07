@@ -30,7 +30,7 @@ description: "A core purpose of Trace Mayer is to be a champion of monetary sove
     <!-- Orange Section -->
     <div class="orange-section px-3 px-md-0">
         <div class="container gx-3 gy-sm-3">
-            <h1 class="mt-1 mt-md-5 text-start px-md-5 orange-h1">Title in here</h1>
+            <h1 class="mt-1 mt-md-5 text-start px-md-5 orange-h1">Speaking & Investments</h1>
             <div class="row text-center">
                 <div class="col-md-6 pb-5 pb-md-0">
                     <a href="#" class="clickable-column text-decoration-none text-dark">
@@ -43,7 +43,7 @@ description: "A core purpose of Trace Mayer is to be a champion of monetary sove
                     <a href="#" class="clickable-column text-decoration-none text-dark">
                     <img src="assets/images/home-img-2.jpg" alt="Investments" class="img-fluid p-md-5">
                     <h4 class="hover-underline text-start px-md-5 orange-h4 mt-4 mt-md-1">Investments</h4>
-                    <p class="text-start px-md-5 orange-p">There have been several blockchain-related investments made.</p>
+                    <p class="text-start px-md-5 orange-p">Trace has made several blockchain-related investments.</p>
                 </a>
                 </div>
             </div>

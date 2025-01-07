@@ -11,10 +11,10 @@ description: "Contact Trace Mayer"
             <div class="col-md-8  text-start pb-md-5 px-md-5">
                 <p class="main-p1 ps-3">GET IN TOUCH</p>
                 <h1 class="fw-bold display-4 main-h1 pb-3 pb-md-4 px-2">Contact</h1>
-               <p class="px-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt gravida gravida. In in arcu augue. Aliquam porta ut est at pellentesque. Donec consequat vel turpis non laoreet. </p>
+               <p class="px-2">Contact Trace Mayer's assistant. </p>
                 <p class="px-2 pb-md-3 pb-5">
-                    Dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt gravida gravida. In in arcu augue. Aliquam porta ut est at pellentesque. Donec consequat. </p>
-                    <button type="submit" class="btn1">Email</button>
+                    He is currently not taking any speaking requests. </p>
+                    <button type="submit" class="btn1">Email: assistant@bitcoin.kn</button>
 
                     <div class="social-icons pt-5 px-2">
                         <a href="#"><i class="fab fa-twitter px-0"></i></a>
