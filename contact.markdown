@@ -14,7 +14,9 @@ description: "Contact Trace Mayer"
                <p class="px-2">Contact Trace Mayer's assistant. </p>
                 <p class="px-2 pb-md-3 pb-5">
                     He is currently not taking any speaking requests. </p>
-                    <button type="submit" class="btn1">Email: assistant@bitcoin.kn</button>
+                    <button type="submit" class="btn1">assistant@bitcoin.kn</button>
+                    <button type="submit" class="btn2">assistant@bitcoin.kn</button>
+                    <button type="submit" class="btn3">assistant@bitcoin.kn</button>
 
                     <div class="social-icons pt-5 px-2">
                         <a href="#"><i class="fab fa-twitter px-0"></i></a>
