@@ -296,6 +296,28 @@ body {
     font-weight: 700;
     
    }
+      .btn2{
+    width: 190px;
+    height: 56px;
+    background-color:#FF7900;
+    border-radius: 40px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+   }
+
+   .btn2:hover{
+    width: 190px;
+    height: 56px;
+    background-color:#d86701;
+    border-radius: 40px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    
+   }
    .navbar-toggler:focus {
     text-decoration: none;
     outline: 0;
