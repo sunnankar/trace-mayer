@@ -40,7 +40,7 @@ description: "A core purpose of Trace Mayer is to be a champion of monetary sove
                 </a>
                 </div>
                 <div class="col-md-6">
-                    <a href="#" class="clickable-column text-decoration-none text-dark">
+                    <a href="investments.html" class="clickable-column text-decoration-none text-dark">
                     <img src="assets/images/home-img-2.jpg" alt="Investments" class="img-fluid p-md-5">
                     <h4 class="hover-underline text-start px-md-5 orange-h4 mt-4 mt-md-1">Investments</h4>
                     <p class="text-start px-md-5 orange-p">Trace has made several blockchain-related investments.</p>
