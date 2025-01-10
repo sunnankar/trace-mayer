@@ -33,7 +33,7 @@ description: "A core purpose of Trace Mayer is to be a champion of monetary sove
             <h1 class="mt-1 mt-md-5 text-start px-md-5 orange-h1">Speaking & Investments</h1>
             <div class="row text-center">
                 <div class="col-md-6 pb-5 pb-md-0">
-                    <a href="#" class="clickable-column text-decoration-none text-dark">
+                    <a href="speaking.html" class="clickable-column text-decoration-none text-dark">
                     <img src="assets/images/home-img-1.jpg" alt="Speaking" class="img-fluid p-md-5">
                    <h4 class="hover-underline text-start px-md-5 orange-h4 mt-4 mt-md-1">Speaking</h4>
                     <p class="text-start px-md-5 orange-p">Due to being busy with other pursuits, Trace is no longer taking speaking requests.</p>
