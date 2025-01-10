@@ -2,3 +2,4 @@ title: Trace Mayer
 description: A core purpose of Trace Mayer is to be a champion of monetary sovereignty.
 baseurl: "" # Leave this empty for the root domain
 url: "https://www.trace-mayer.com" # Your custom domain
+permalink: /:categories/:year/:month/:day/:title:output_ext
