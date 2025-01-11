@@ -1,0 +1,22 @@
+---
+layout: default
+title:  "New Year Eve 100k Bitcoin Party"
+date:   2024-12-31 
+#categories: 
+
+---
+<html>
+<body>
+
+   <!-- Main Section -->
+    <div class="container">
+        <div class="row w-100">
+            <div class="col-md-12 text-start pb-md-5 px-md-5">
+               
+               <h2 class="fw-bold display-4 pb-md-4 px-2 py-md-4">100K Party</h2>
+                    <p class="ps-2" >The travel was fast!
+           </div>
+        </div>
+    </div>
+</body>
+</html>
