@@ -11,20 +11,20 @@ description: "There have been several blockchain related investments made. The g
     <div class="container">
         <div class="row w-100">
             <div class="col-md-12 text-start pb-md-5 px-md-5">
-                <p class="main-p1 ps-3">October 27, 2015</p>
+                <p class="main-p1 ps-3"></p>
                 <h1 class="fw-bold display-4 main-h1 pb-3 pb-md-4 px-2">Investments</h1>
                <p class="px-2">There have been several blockchain related investments made. The general thesis is that there are seven network effects taking place with Bitcoin: (1) Speculation, (2) Merchants, (3) Consumers, (4) Security/Miners, (5) Developers, (6) Financailization and (7) Settlement Currency.</p>
                <p class="px-2">The investments are to start at the beginning of these network effects.
                </p>
                <div class="row py-3">
                 <div class="col-xl-4">
-                    <img src="assets/images/investements/logo-armory.png" height="58" alt="Armory">
+                    <img src="/assets/images/investments/logo-armory.png" height="58" alt="Armory">
                 </div>
                 <div class="col-xl-3 offset-xl-1 py-3 py-md-0">
-                    <img src="assets/images/investements/logo-bitpay.png" height="58" alt="bitpay">
+                    <img src="/assets/images/investments/logo-bitpay.png" height="58" alt="bitpay">
                 </div>
                 <div class="col-xl-3 offset-xl-1">
-                    <img src="assets/images/investements/logo-kraken.png" height="58" alt="kraken">
+                    <img src="/assets/images/investments/logo-kraken.png" height="58" alt="kraken">
                 </div>
                </div>
                <p class="px-2">To properly speculate the private keys must be properly secured hence the investment in Armory and to be traded there must be an exchange, Kraken.</p>
