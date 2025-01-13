@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 title: Blogs
 description: "Trace Mayer's speaking engagements and biography."
 ---

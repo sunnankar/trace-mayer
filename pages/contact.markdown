@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 title: Contact
 description: "Contact Trace Mayer"
 ---
@@ -30,7 +30,7 @@ description: "Contact Trace Mayer"
                 
 
             <div class="col-md-4 order-1 order-md-2">
-                <img src="assets/images/story/story-img1.png" class="img-fluid">
+                <img src="/assets/images/story/story-img1.png" class="img-fluid">
             </div>
         </div>
         

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 title: Investments
 description: "There have been several blockchain related investments made. The general thesis is that there are seven network effects taking place with Bitcoin."
 ---

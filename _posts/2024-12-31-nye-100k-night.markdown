@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: posts
 title:  "New Year Eve 100k Bitcoin Party"
 date:   2024-12-31 
 #categories: 

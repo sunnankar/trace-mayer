@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pages
 title: Speaking
 description: "Due to being busy with other pursuits Trace Mayer is no longer taking speaking requests."
 ---
