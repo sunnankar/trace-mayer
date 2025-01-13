@@ -14,7 +14,7 @@ date:   2025-01-01
             <div class="col-md-12 text-start pb-md-5 px-md-5">
                {{ page.date | date: "%B %-d, %Y" }}
                <h2 class="fw-bold display-4 pb-md-4 px-2 py-md-4">A NEW YEAR</h2>
-                    <p class="ps-2" >A new year!
+                    <p class="ps-2" >A new year!</p>
            </div>
         </div>
     </div>
