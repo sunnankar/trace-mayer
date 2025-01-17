@@ -1,7 +1,7 @@
 ---
 layout: pages
 title: My Story 
-description: "Everyone knows the golden rule: He who has the gold makes the rules."
+description: "Champion of monetary sovereignity."
 ---
 
 

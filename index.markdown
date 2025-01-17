@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Trace Mayer
-description: "A core purpose of Trace Mayer is to be a champion of monetary sovereignty through non-violent cryptographic means"
+description: "A core purpose of Trace Mayer is to be a champion of monetary sovereignty through non-violent cryptographic means."
 ---
 
 <html>
@@ -12,7 +12,7 @@ description: "A core purpose of Trace Mayer is to be a champion of monetary sove
         <div class="row align-items-start w-100">
             <!-- Text Section -->
             <div class="col-md-6 col-lg-5 text-start pb-md-5 px-md-5">
-                <p class="main-p1">PHILOSOPHER / ENTREPRENEUR / INVESTOR</p>
+                <p class="main-p1">MONETARY SCIENTIST / ENTREPRENEUR / INVESTOR</p>
                 <h2 class="fw-bold display-4 main-h2">Monetary Sovereignty.</h2>
                 <p class=" main-p2 mt-3 pb-5">
                     A core purpose of Trace Mayer is to be a champion of monetary sovereignty through non-violent cryptographic means for individuals to protect and preserve their
