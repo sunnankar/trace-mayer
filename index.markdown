@@ -11,7 +11,7 @@ description: "A core purpose of Trace Mayer is to be a champion of monetary sove
     <div class="container main-contain d-flex align-items-start justify-content-center">
         <div class="row align-items-start w-100">
             <!-- Text Section -->
-            <div class="col-md-6 col-lg-6 text-start pb-md-5 px-md-5">
+            <div class="col-md-6 col-lg-5 text-start pb-md-5 px-md-5">
                 <p class="main-p1">MONETARY SCIENTIST / ENTREPRENEUR / INVESTOR</p>
                 <h2 class="fw-bold display-4 main-h2">Monetary Sovereignty.</h2>
                 <p class=" main-p2 mt-3 pb-5">
@@ -21,7 +21,7 @@ description: "A core purpose of Trace Mayer is to be a champion of monetary sove
                 <form action="pages/story.html"><button type="submit" class="btn1" >About</button></form>
             </div>
             <!-- Image Section -->
-            <div class="col-md-6 col-lg-6 d-flex align-items-end justify-content-center p-0">
+            <div class="col-md-6 col-lg-7 d-flex align-items-end justify-content-center p-0">
                 <img src="assets/images/trace-mayer-home-hero-1.jpg" alt="Profile Image" class="img-fluid custom-image">
             </div>
         </div>
