@@ -37,11 +37,20 @@ description: "Champion of monetary sovereignity."
         
     </div>
 
+    <!-- Timeline Section -->
+        <div class="container">
+        <div class="row w-100">
+            <div class="resource-item pb-md-5 px-md-5">
+                <img src="/assets/images/story/timeline.png" alt="Profile Image" class="img-fluid custom-image">
+            </div>
+        </div>
+    </div>
+
     <!-- story Section -->
     <div class="black-section">
-        <div class="container ps-md-3">
+        <div class="container">
            <div class="row">
-            <div class="col-md-8 ps-md-5">
+            <div class="col-md-12 px-md-5">
               
                     
                     <p class="ps-2  pt-2">In 2013 he helped organize and <a href="https://www.youtube.com/watch?v=bW6hxEuoHAI" target="_blank" class="text-link">presented</a>  at the first Bitcoin conference. He also <a href="https://www.gata.org/node/12105" target="_blank" class="text-link"> helped GATA accept Bitcoin</a> and has been a <a href="https://www.gata.org/"  target="_blank" class="text-link">GATA</a>  supporter since the 2000's</p>
