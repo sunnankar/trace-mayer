@@ -49,34 +49,8 @@ description: "A core purpose of Trace Mayer is to be a champion of monetary sove
             </div>
         </div>
     </div>
-
-    <!-- Dark Section -->
-    <div class="dark-section text-center text-md-start p-md-4 px-3 px-md-0 py-5 py-md-0">
-        <div class="container p-md-4">
-            <div class="row">
-               
-                <h5 class="mt-md-5 mt-3 px-md-5 dark-h5 pb-md-0 pb-3">Recent Posts</h5>
-                <div class="col-md-4 p-md-5">
-                    <a href="#" class="clickable-column text-decoration-none text-dark">
-                   <h5 class=" hover-underline2 dark-head">Great ideas to help your business grow</h5>
-                    <p class="dark-para">Branding is an intrinsic part of your company's success. Learn why your brand matters.</p>
-                    </a>
-                </div>
-                <div class="col-md-4 p-md-5 pt-3">
-                    <a href="#" class="clickable-column text-decoration-none text-dark">
-                   <h5 class="hover-underline2 dark-head">How to make your website page load speed fast</h5>
-                    <p class="dark-para">Branding is an intrinsic part of your company's success. Learn why your brand matters.</p>
-                    </a>
-                </div>
-                <div class="col-md-4 p-md-5 pt-3">
-                    <a href="#" class="clickable-column text-decoration-none text-dark">
-                   <h5 class="hover-underline2 dark-head">Building design systems that scale across teams</h5>
-                    <p class="dark-para">Design systems are an important part of modern web development. Learn best practices to scale your design system.</p>
-                    </a>
-                </div>
-                
-            </div>
-        </div>
-    </div>
+   
+   <!-- Recent Posts Section -->
+	{% include recent_posts.html %}
 </body>
 </html>

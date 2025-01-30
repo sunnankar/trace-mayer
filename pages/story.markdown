@@ -32,13 +32,28 @@ description: "Champion of monetary sovereignity."
     </div>
 
     <!-- Timeline Section -->
-        <div class="container">
-        <div class="row w-100">
-            <div class="resource-item pb-md-5 px-md-5">
-                <img src="/assets/images/story/timeline.png" alt="Profile Image" class="img-fluid custom-image">
-            </div>
-        </div>
-    </div>
+		<div class="container">
+			<div class="row w-100">
+				<div class="resource-item pb-md-5 px-md-5">
+						<img src="/assets/images/story/bitcoin-epoch-1.png" alt="Bitcoin Epoch 1" class="img-fluid custom-image">
+				</div>
+			</div>
+			<div class="row w-100">
+				<div class="resource-item pb-md-5 px-md-5">
+						<img src="/assets/images/story/bitcoin-epoch-2.png" alt="Bitcoin Epoch 2" class="img-fluid custom-image">
+				</div>
+			</div>
+			<div class="row w-100">
+				<div class="resource-item pb-md-5 px-md-5">
+						<img src="/assets/images/story/bitcoin-epoch-3.png" alt="Bitcoin Epoch 3" class="img-fluid custom-image">
+				</div>
+			</div>
+			<div class="row w-100">
+				<div class="resource-item pb-md-5 px-md-5">
+						<img src="/assets/images/story/bitcoin-epoch-4.png" alt="Bitcoin Epoch 4" class="img-fluid custom-image">
+				</div>
+			</div>									
+		</div>
 
     <!-- story Section -->
     <div class="black-section">

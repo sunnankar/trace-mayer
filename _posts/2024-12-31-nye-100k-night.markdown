@@ -2,20 +2,7 @@
 layout: posts
 title:  "New Year Eve 100k Bitcoin Party"
 date:   2024-12-31 
-#categories: 
-
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
 ---
-<html>
-<body>
-   <!-- Main Section -->
-    <div class="container">
-        <div class="row w-100">
-            <div class="col-md-12 text-start pb-md-5 px-md-5">
-            {{ page.date | date: "%B %-d, %Y" }}
-               <h2 class="fw-bold display-4 pb-md-4 px-2 py-md-4">100K Party</h2>
-                    <p class="ps-2" >The travel was fast!</p>
-           </div>
-        </div>
-    </div>
-</body>
-</html>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
