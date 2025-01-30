@@ -50,7 +50,7 @@ description: "Champion of monetary sovereignity."
                     In 2015, he delivered an impromptu speech on what the future of Bitcoin will be and why.</p>
                     
                     <div class="pt-5">
-                        <iframe class="yt-vid p-0" src="https://www.youtube.com/embed/TCU-soMs1wY?si=nWhuX3bdzfpMD5Ci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <center><iframe class="yt-vid p-0" src="https://www.youtube.com/embed/TCU-soMs1wY?si=nWhuX3bdzfpMD5Ci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
            
                     </div>             
                     
@@ -65,7 +65,7 @@ description: "Champion of monetary sovereignity."
                             The currency markets are the largest markets in the world, ripe for innovation and massive fortunes will be transferred and made in the creative destruction.
                             Blockchain technology holds the most disruptive potential for actually being able to execute such massive creative destruction as capital burrows down the  <a href="https://www.liquiditypyramid.com/"  target="_blank" class="text-link">liquidity pyramid</a>  into safer and more liquid assets like gold and Bitcoin.</p>
 
-                    <iframe  class="yt-vid p-0" src="https://www.youtube.com/embed/mgpDuH17T0Y?si=4J1me8Em7ZoymLo7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <center><iframe  class="yt-vid p-0" src="https://www.youtube.com/embed/mgpDuH17T0Y?si=4J1me8Em7ZoymLo7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
                     <p class="ps-2 pt-md-5 pt-2">The main purpose of <a href="https://www.weusecoins.com/trace-mayer/"  target="_blank" class="text-link">Trace Mayer's</a> work, almost all of it provided to all mankind for free and at great risk to himself since tyrants love to silence the conscience, is to provide ideas and information on monetary science and economics that will help prepare people to combat the extremely dangerous false ideas currently in the marketplace that are causing many undesirable and harmful effects worldwide.</p>
                     <p class="ps-2">Ideas can only be overcome by other ideas. Money and force are impotent against ideas. Government abuse of currency has enabled many evils including the rise of dictators and perpetuation of genocide. The abandonment of sound money is the chief reason, if not the only reason, that the world has become such a dangerous place.
                     </p>
