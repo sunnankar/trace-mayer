@@ -18,13 +18,7 @@ description: "Champion of monetary sovereignity."
                </p>
                <p class="px-2">To further that purpose, he was the first popular blogger to step onto the battlefield of ideas and publicly recommend the powerful blockchain technology Bitcoin with a market capitalization 
                 under&nbsp;$2m</p>
-                <p class="px-2">
-                    In 2015, he delivered an impromptu speech on what the future of Bitcoin will be and why.</p>
-                    
-                    <div class="pt-5">
-                        <iframe class="yt-vid p-0" src="https://www.youtube.com/embed/TCU-soMs1wY?si=nWhuX3bdzfpMD5Ci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-           
-                    </div>
+
                     
                 </div>
 
@@ -51,7 +45,14 @@ description: "Champion of monetary sovereignity."
         <div class="container">
            <div class="row">
             <div class="col-md-12 px-md-5">
-              
+ 
+                 <p class="px-2">
+                    In 2015, he delivered an impromptu speech on what the future of Bitcoin will be and why.</p>
+                    
+                    <div class="pt-5">
+                        <iframe class="yt-vid p-0" src="https://www.youtube.com/embed/TCU-soMs1wY?si=nWhuX3bdzfpMD5Ci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           
+                    </div>             
                     
                     <p class="ps-2  pt-2">In 2013 he helped organize and <a href="https://www.youtube.com/watch?v=bW6hxEuoHAI" target="_blank" class="text-link">presented</a>  at the first Bitcoin conference. He also <a href="https://www.gata.org/node/12105" target="_blank" class="text-link"> helped GATA accept Bitcoin</a> and has been a <a href="https://www.gata.org/"  target="_blank" class="text-link">GATA</a>  supporter since the 2000's</p>
                     <p class="ps-2">Bitcoin is fulfilling its destiny, as he explained and predicted in 2010, and in January 2021 the Bitcoin market cap had massively swollen to over $800B
