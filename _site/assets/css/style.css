@@ -25,6 +25,9 @@ body {
     overflow-x: hidden; /* Hide horizontal scrollbar */
     overflow-y: scroll; /* Add vertical scrollbar */
     font-family: 'DM Sans';
+    
+    /* Uncomment to expose grid */ 
+    /* * { border: 1px solid hotpink}  */
 }
 
 .bg-pan{
