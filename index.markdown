@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Trace Mayer
 description: "A core purpose of Trace Mayer is to be a champion of monetary sovereignty through non-violent cryptographic means."
 ---

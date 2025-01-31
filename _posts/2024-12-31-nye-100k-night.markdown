@@ -1,5 +1,4 @@
 ---
-layout: posts
 title:  "New Year Eve 100k Bitcoin Party"
 date:   2024-12-31 
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"

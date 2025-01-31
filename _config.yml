@@ -3,3 +3,13 @@ description: A core purpose of Trace Mayer is to be a champion of monetary sover
 baseurl: "" # Leave this empty for the root domain
 url: "https://www.trace-mayer.com" # Your custom domain
 permalink: /:categories/:year/:month/:day/:title:output_ext
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "posts"
+  - scope:
+      path: ""
+    values:
+      layout: "default"   
