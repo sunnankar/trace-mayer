@@ -1,5 +1,4 @@
 ---
-layout: pages
 title: My Story 
 description: "Champion of monetary sovereignity."
 ---

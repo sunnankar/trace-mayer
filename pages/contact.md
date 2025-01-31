@@ -1,5 +1,4 @@
 ---
-layout: pages
 title: Contact
 description: "Contact Trace Mayer"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: pages
 title: Bio
 description: "Trace Mayer's biography."
 ---

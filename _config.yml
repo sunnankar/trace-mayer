@@ -10,6 +10,10 @@ defaults:
     values:
       layout: "posts"
   - scope:
+      path: "pages"
+    values:
+      layout: "pages"      
+  - scope:
       path: ""
     values:
       layout: "default"   
