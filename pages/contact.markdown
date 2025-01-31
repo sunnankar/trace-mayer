@@ -14,21 +14,20 @@ description: "Contact Trace Mayer"
 					<p class="px-2">Contact Trace Mayer's assistant. </p>
 					<p class="px-2 pb-md-3 pb-5">He is currently not taking any speaking requests.</p>
 					<button type="submit" class="btn2">assistant@bitcoin.kn</button>
-
 					<div class="social-icons pt-5 px-2">
 							<a href="#"><i class="fab fa-twitter px-0"></i></a>
 							<a href="#"><i class="fab fa-facebook px-0"></i></a>
 							<a href="#"><i class="fab fa-instagram px-0"></i></a>
 							<a href="#"><i class="fab fa-linkedin px-0"></i></a>
 					</div>
-				</div>
-
-				<div class="col-md-4 order-1 order-md-2">
-						<img src="/assets/images/story/story-img1.png" class="img-fluid">
-				</div>
-			</div>
+    			</div>
+    			<div class="col-md-4 order-1 order-md-2">
+    					<img src="/assets/images/story/story-img1.png" class="img-fluid">
+    			</div>
+    		</div>
     </div>
 
    <!-- Recent Posts Section -->
-	{% include recent_posts.html %}
+    {% include recent_posts.html %}
+
 </body>
