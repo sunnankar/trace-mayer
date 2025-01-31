@@ -32,7 +32,10 @@ description: "Champion of monetary sovereignity."
     </div>
 
     <!-- Timeline Section -->
-    {% include page_sections/timeline.html %}
+    {% include page_sections/timelines/epoch_1.html %}
+    {% include page_sections/timelines/epoch_2.html %}
+    {% include page_sections/timelines/epoch_3.html %}
+    {% include page_sections/timelines/epoch_4.html %}
 
     <!-- story Section -->
     <div class="black-section">
