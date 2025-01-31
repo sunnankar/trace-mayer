@@ -5,12 +5,12 @@
       <h5 class="mt-md-5 mt-3 px-md-5 dark-h5 pb-md-0 pb-3">Recent Posts</h5>
 
       {% for post in site.posts limit:3 %}
-        <div class="col-md-4 p-md-5">
-            <a href="{{ post.url }}" class="clickable-column text-decoration-none text-dark">
-            <h5 class="hover-underline2 dark-head">{{ post.title }}</h5>
-            <p class="dark-para">{{ post.description }}</p>
-            </a>
-        </div>
+      <div class="col-md-4 p-md-5">
+        <a href="{{ post.url }}" class="clickable-column text-decoration-none text-dark">
+          <h5 class="hover-underline2 dark-head">{{ post.title }}</h5>
+          <p class="dark-para">{{ post.description }}</p>
+        </a>
+      </div>
       {% endfor %}
     </div>
   </div>
