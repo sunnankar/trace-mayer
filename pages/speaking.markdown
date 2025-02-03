@@ -51,17 +51,17 @@ description: "Due to being busy with other pursuits Trace Mayer is no longer tak
                 <div class="row ps-md-5 ps-2">
                     <h2 class="resources-title text-start">Resources</h2>
                     <div class="col-md-3 col-8 resource-item">
-                        <img src="assets/images/speaking/img1.png" alt="High-res version 1">
+                        <img src="/assets/images/speaking/img1.png" alt="High-res version 1">
                         <a href="#">High-res version 1 ></a>
                       </div>
                       <div class="col-md-1"></div>
                       <div class="col-md-3 col-8  resource-item">
-                        <img src="assets/images/speaking/img2.png" alt="High-res version 2">
+                        <img src="/assets/images/speaking/img2.png" alt="High-res version 2">
                         <a href="#">High-res version 2 ></a>
                       </div>
                       <div class="col-md-1"></div>
                       <div class="col-md-3 col-8 resource-item">
-                        <img src="assets/images/speaking/img3.png" alt="Med-res version 3">
+                        <img src="/assets/images/speaking/img3.png" alt="Med-res version 3">
                         <a href="#">Med-res version 3 ></a>
                       </div>
                     </div>
