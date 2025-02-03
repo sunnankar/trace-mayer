@@ -27,7 +27,7 @@ body {
     font-family: 'DM Sans';
 
     /* Uncomment to expose grid */ 
-    /* * { border: 1px solid hotpink}  */
+    * { border: 1px solid hotpink} 
 }
 
 .bg-pan{
