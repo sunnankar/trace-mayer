@@ -14,7 +14,7 @@ permalink: /blog/
           <div class="row py-3 px-2">
             <h1>{{ year.name }}</h1>
             {% for post in year.items %}
-              <div><a href="{{site.baseurl}}{{ post.url }}" class="text-link"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></div>
+              <div><a href="{{site.baseurl}}{{ post.url }}" class="text-link"><span>{{ post.date | date: "%B %-d" }}</span> - {{ post.title }}</a></div>
             {% endfor %}
           </div>
         {% endfor %}  	 
