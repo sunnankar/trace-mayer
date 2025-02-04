@@ -1,7 +1,7 @@
 ---
 title: Proof of Work 
 description: "Champion of monetary sovereignity."
-permalink: /story/
+permalink: /proof-of-work/
 ---
 
 
