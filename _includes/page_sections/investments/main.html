@@ -5,13 +5,12 @@
       <h1 class="fw-bold display-4 main-h1 pb-3 pb-md-4 px-2">Investments</h1>
       <p class="px-2">There have been several blockchain related investments made. The general thesis is that there are seven network effects taking place with Bitcoin: (1) Speculation, (2) Merchants, (3) Consumers, (4) Security/Miners, (5) Developers, (6) Financailization and (7) Settlement Currency.</p>
       <p class="px-2">The investments are to start at the beginning of these network effects</p>
-      <div class="row py-3">      
-        {% for image in site.static_files %}
-          {% if image.path contains 'images/investments' %}
-            <div class="col-xl-4">
-              <img src="{{ site.baseurl }}{{ image.path }}" height="58" />
-            </div>
-          {% endif %}
+      <div class="row py-3">
+        {% for logo in site.data.investments.logos %}
+          <div class="col-xl-4">
+            <img src="{{ site.baseurl }}{{ logo.src }}" height="58" alt="{{logo.name}}" />
+            <div class="row py-3">{{ logo.blurb }}</div>
+          </div>
         {% endfor %}
       </div>
       <p class="px-2">To properly speculate the private keys must be properly secured hence the investment in Armory and to be traded there must be an exchange, Kraken.</p>

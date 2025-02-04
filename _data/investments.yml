@@ -1,0 +1,10 @@
+logos:
+  - name: Armory
+    src: /assets/images/investments/logo-armory.png
+    blurb: "Armory is a platform for continuous delivery and software deployment at scale."
+  - name: Bitpay
+    src: /assets/images/investments/logo-bitpay.png
+    blurb: "BitPay is a global bitcoin payment service provider headquartered in Atlanta, Georgia."
+  - name: Kraken
+    src: /assets/images/investments/logo-kraken.png
+    blurb: "Kraken is a US-based cryptocurrency exchange operating in Canada, the EU, Japan, and the US."
