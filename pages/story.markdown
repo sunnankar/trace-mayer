@@ -1,5 +1,5 @@
 ---
-title: My Story 
+title: Proof of Work 
 description: "Champion of monetary sovereignity."
 permalink: /story/
 ---
@@ -7,12 +7,11 @@ permalink: /story/
 
 <html>
 <body>
-
   <!-- Main Section -->
     <div class="container">
         <div class="row w-100">
             <div class="col-md-8  text-start pb-md-5 px-md-5 order-2 order-md-1">
-                <h1 class="fw-bold display-4 main-h1 pb-3 pb-md-4 px-2">My Story</h1>
+                <h1 class="fw-bold display-4 main-h1 pb-3 pb-md-4 px-2">Proof of Work</h1>
                <p class="px-2">Everyone knows the golden rule: He who has the gold makes the rules.</p>
                <p class="px-2">A core purpose of Trace Mayer is to be a champion of monetary sovereignty through non-violent cryptographic means for individuals to protect and preserve their agency and freedom from oppression in the very controversial political battle over money and property rights.
                </p>
