@@ -6,5 +6,6 @@ permalink: /investments/
 
 <!-- Main Section -->
 {% include page_sections/investments/main.html %}
+
 <!-- Story Section -->
 {% include page_sections/investments/story.html %}
