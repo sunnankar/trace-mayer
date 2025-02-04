@@ -19,11 +19,11 @@ permalink: contact/
 					<a href="#"><i class="fab fa-instagram px-0"></i></a>
 					<a href="#"><i class="fab fa-linkedin px-0"></i></a>
 			</div>
-			</div>
-			<div class="col-md-4 order-1 order-md-2">
-					<img src="/assets/images/story/story-img1.png" class="img-fluid">
-			</div>
-		</div>
+    </div>
+    <div class="col-md-4 order-1 order-md-2">
+        <img src="/assets/images/story/story-img1.png" class="img-fluid">
+    </div>
+  </div>
 </div>
 
 <!-- Recent Posts Section -->
