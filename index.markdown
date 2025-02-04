@@ -17,7 +17,7 @@ description: "A core purpose of Trace Mayer is to be a champion of monetary sove
                     A core purpose of Trace Mayer is to be a champion of monetary sovereignty through non-violent cryptographic means for individuals to protect and preserve their
                      agency and freedom from oppression in the very controversial political battle over money and property rights.
                 </p>
-                <form action="story"><button type="submit" class="btn1" >About</button></form>
+                <form action="proof-of-work"><button type="submit" class="btn1" >About</button></form>
             </div>
             <!-- Image Section -->
             <div class="col-md-6 col-lg-7 d-flex align-items-end justify-content-center p-0">
