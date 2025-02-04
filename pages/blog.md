@@ -4,7 +4,7 @@ description: "Trace Mayer's speaking engagements and biography."
 permalink: /blog/
 ---
 
-<div class="text-center">
+<div class="text-center pb-md-5">
 	{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 	{% for year in postsByYear %}
   	<h1>{{ year.name }}</h1>
