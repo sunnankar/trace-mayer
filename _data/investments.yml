@@ -20,3 +20,6 @@ logos:
   - name: RTX
     src: /assets/images/investments/logo-RTX.png
     blurb: "As the Financialization network effect continued to find its footing, Trace backed RTX, a registered Swap Dealer in the US. The investment in RTX has brought a technology-first approach to the arcane swaps market, transitioning from a predominantly voice broker model to an electronic market. Through the investment in RTX, Trace has helped bring principles of transparency and price discovery to the traditional markets."
+  - name: Wolf
+    src: /assets/images/investments/logo-wolf.png
+    blurb: "Trace recognized that Bitcoin adoption depends on scalability and being able to support on-chain transactions for a wide range of participants. He supported Lightning Network from the early days and backed up this support with an investment in Wolf, an incubator for companies building on Lightning."
