@@ -1,10 +1,22 @@
 logos:
   - name: Armory
     src: /assets/images/investments/logo-armory.png
-    blurb: "Armory is a platform for continuous delivery and software deployment at scale."
+    blurb: "Trace was an early investor in Armory, leading their seed round and supporting the company as it innovated on Cold Storage and Hierarchical Deterministic Multi-sig Wallets. Trace was early to identify the need for robust wallet software to support individuals in their desire to hold their own private keys. The investment in Armory paved the way for self-custody and enabling people to exert their monetary sovereignty."
   - name: Bitpay
     src: /assets/images/investments/logo-bitpay.png
-    blurb: "BitPay is a global bitcoin payment service provider headquartered in Atlanta, Georgia."
+    blurb: "Trace invested in BitPay as part of the second Network Effect of Bitcoin, Merchant adoption. Any new form of money would necessarily need to serve as a medium of exchange for consumer/merchant transactions, and BitPay helped facilitate this as a merchant processor. They insulated the merchant from the price volatility risk, enabling a wide range of companies to accept Bitcoin without having to manage the FX risk."
   - name: Kraken
     src: /assets/images/investments/logo-kraken.png
-    blurb: "Kraken is a US-based cryptocurrency exchange operating in Canada, the EU, Japan, and the US."
+    blurb: "As Bitcoin continued to grow in 2011, Trace identified that Financialization would be important, and exchanges would be a critical piece of the financialization infrastructure. He co-led Kraken's Series A with Hummingbird Ventures due to its focus on security at a time when most exchanges were getting hacked or compromised. Trace participated in Kraken funding in later rounds as well, supporting the company through its growth throughout the years. Kraken remains a critical piece of Bitcoin trading infrastructure, supporting retail and institutional participants around the world."
+  - name: Bitcoin Magazine
+    src: /assets/images/investments/logo-bitcoin-mag.png
+    blurb: "Trace recognized that Bitcoin adoption required a reliable source of bitcoin news and information. His investment in Bitcoin Magazine was in-line with this focus and helped drive mainstream education and adoption, championing monetary sovereignty and serving as a resource for newcomers and veterans alike."
+  - name: NYDIG
+    src: /assets/images/investments/logo-NYDIG.png
+    blurb: "Trace's 2020 investment in NYDIG was one of the first to drive institutionalization of bitcoin, supporting the Financialization network effect. NYDIG's unique positioning as a licensed custodian enabled them to offer custody and derivatives in a regulated manner that had not been done before. Trace continued to work with NYDIG over the years to innovate on their derivatives offering and expand it to other institutional products such as lending and repo."
+  - name: Custodia Bank
+    src: /assets/images/investments/logo-custodia.png
+    blurb: "In 2021, Trace led the way on the banking fight with his investment in Custodia Bank. Not long after, Operation Chokepoint 2.0 took hold, with the Fed blocking and ultimately shutting down banks that had served crypto companies. Trace is backing Custodia in their lawsuit against the Fed, ensuring that the government does not unjustly target banks and entities operating in the space."
+  - name: RTX
+    src: /assets/images/investments/logo-RTX.png
+    blurb: "As the Financialization network effect continued to find its footing, Trace backed RTX, a registered Swap Dealer in the US. The investment in RTX has brought a technology-first approach to the arcane swaps market, transitioning from a predominantly voice broker model to an electronic market. Through the investment in RTX, Trace has helped bring principles of transparency and price discovery to the traditional markets."
