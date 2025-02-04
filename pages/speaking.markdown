@@ -52,17 +52,17 @@ permalink: /speaking/
                     <h2 class="resources-title text-start">Resources</h2>
                     <div class="col-md-3 col-8 resource-item">
                         <img src="/assets/images/speaking/img1.png" alt="High-res version 1">
-                        <a href="#">High-res version 1 ></a>
+                        <a href="/assets/images/speaking/img1-high-res.jpg" target='_blank'>High-res version 1 ></a>
                       </div>
                       <div class="col-md-1"></div>
                       <div class="col-md-3 col-8  resource-item">
                         <img src="/assets/images/speaking/img2.png" alt="High-res version 2">
-                        <a href="#">High-res version 2 ></a>
+                        <a href="/assets/images/speaking/img2-high-res.jpg" target='_blank'>High-res version 2 ></a>
                       </div>
                       <div class="col-md-1"></div>
                       <div class="col-md-3 col-8 resource-item">
                         <img src="/assets/images/speaking/img3.png" alt="Med-res version 3">
-                        <a href="#">Med-res version 3 ></a>
+                        <a href="/assets/images/speaking/img3-high-res.jpg" target='_blank'>High-res version 3 ></a>
                       </div>
                     </div>
                     
