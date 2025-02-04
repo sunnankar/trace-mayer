@@ -5,11 +5,11 @@
       <h1 class="fw-bold display-4 main-h1 pb-3 pb-md-4 px-2">Investments</h1>
       <p class="px-2">There have been several blockchain related investments made. The general thesis is that there are seven network effects taking place with Bitcoin: (1) Speculation, (2) Merchants, (3) Consumers, (4) Security/Miners, (5) Developers, (6) Financailization and (7) Settlement Currency.</p>
       <p class="px-2">The investments are to start at the beginning of these network effects</p>
-      <div class="row py-3">
+      <div class="row py-3 px-2">
         {% for logo in site.data.investments.logos %}
-          <div class="col-xl-4">
-            <img src="{{ site.baseurl }}{{ logo.src }}" height="58" alt="{{logo.name}}" />
-            <div class="row py-3">{{ logo.blurb }}</div>
+          <div class="col-xl-6 mb-5">
+            <img src="{{ site.baseurl }}{{ logo.src }}" height="58" alt="{{logo.name}}" class="mb-2"/>
+            <div class="col-xl-12">{{ logo.blurb }}</div>
           </div>
         {% endfor %}
       </div>

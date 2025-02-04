@@ -44,11 +44,7 @@ permalink: /proof-of-work/
  
                  <p class="px-2">
                     In 2015, he delivered an impromptu speech on what the future of Bitcoin will be and why.</p>
-                    
-                    <div class="pt-5">
-                        <center><iframe class="yt-vid p-0" src="https://www.youtube.com/embed/TCU-soMs1wY?si=nWhuX3bdzfpMD5Ci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
-           
-                    </div>             
+                              
                     
                     <p class="ps-2  pt-2">In 2013 he helped organize and <a href="https://www.youtube.com/watch?v=bW6hxEuoHAI" target="_blank" class="text-link">presented</a>  at the first Bitcoin conference. He also <a href="https://www.gata.org/node/12105" target="_blank" class="text-link"> helped GATA accept Bitcoin</a> and has been a <a href="https://www.gata.org/"  target="_blank" class="text-link">GATA</a>  supporter since the 2000's</p>
                     <p class="ps-2">Bitcoin is fulfilling its destiny, as he explained and predicted in 2010, and in January 2021 the Bitcoin market cap had massively swollen to over $800B
