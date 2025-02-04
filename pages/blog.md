@@ -1,6 +1,7 @@
 ---
 title: Blogs
 description: "Trace Mayer's speaking engagements and biography."
+permalink: /blog/
 ---
 
 <div class="text-center">

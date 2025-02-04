@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 description: "Privacy Policy"
+permalink: /privacy/
 ---
 
 <!-- Main Section -->

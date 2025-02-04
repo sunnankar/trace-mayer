@@ -1,6 +1,7 @@
 ---
 title: Speaking
 description: "Due to being busy with other pursuits Trace Mayer is no longer taking speaking requests."
+permalink: /speaking/
 ---
 
 <html>
@@ -10,7 +11,6 @@ description: "Due to being busy with other pursuits Trace Mayer is no longer tak
     <div class="container">
         <div class="row w-100">
             <div class="col-md-12 text-start pb-md-5 px-md-5">
-                <p class="main-p1 ps-3">October 26, 2015 </p>
                 <h1 class="fw-bold display-4 main-h1 pb-3 pb-md-4 px-2">Speaking</h1>
                <p class="px-2">Due to being busy with other pursuits Trace Mayer is no longer taking speaking requests.</p>
                

@@ -1,6 +1,7 @@
 ---
 title: Bio
 description: "Trace Mayer's biography."
+permalink: /bio/
 ---
 
 <html>

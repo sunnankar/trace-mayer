@@ -1,6 +1,7 @@
 ---
 title: Contact
 description: "Contact Trace Mayer"
+permalink: contact/
 ---
 
 <!-- Main Section -->
